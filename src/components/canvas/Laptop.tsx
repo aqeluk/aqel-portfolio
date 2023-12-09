@@ -69,7 +69,7 @@ export default function Model(props: JSX.IntrinsicElements["group"]) {
             className="screen h-[310px] w-[480px] overflow-y-scroll"
           >
             <a href="/Uzair-Popalzai-CV-2023.pdf" target="_blank" rel="noreferrer">
-              <img src="/UzairPopalzaiCVImage.jpg" alt="Uzair Popalzai CV JPG" width="480px" height="310px" />
+              <img src="/UzairPopalzaiCVImage.png" alt="Uzair Popalzai CV Image" width="480px" height="310px" />
             </a>
           </Html>
         </group>
